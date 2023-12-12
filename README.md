@@ -1,15 +1,8 @@
 # CS-330
-Graphic Visulization
-How do I approach designing software?
-I approache it with an open mind and understandng
+Graphic Visualization
 
-What new design skills has your work on the project helped you to craft?
-What design process did you follow for your project work?
-How could tactics from your design approach be applied in future work?
-How do I approach developing programs?
-What new development strategies did you use while working on your 3D scene?
-How did iteration factor into your development?
-How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
-How can computer science help me in reaching my goals?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
-How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+I approach it with an open mind and understanding, looking for the key factors that are going to be needed and then coming up with a plan to start designing that software.
+I have been able to choose a more risk management approach based on the project and the assignments that are going to be due. I do this in the sense that I do not want to make a choice that is unrealistic and then have a chance at failure, rather I would like to take something that is a good idea that looks good and apply that idea, and then if time allows I have something that I can improve upon and I think that leave room for risk managment and a well planned out idea that is executable. The same concept goes for the design process, it is risk-assessed and then implemented at best practice. The first process is what stands out, what can be done promptly and then what can be added that might showcase the work that it takes. Sometimes the thing you want that is time-consuming is necessary but doesn't appeal to the eyes. This means that something may be needed to show difficulty. The laptop in my project is 100% the centerpiece and the logo is necessary for the centerpiece but it doesn't pull the eyes. In this case, the pen pulls the eyes with its shape, color, texture, and look. Risk management is how most tactics are applied in future work of mine and knowing what is needed to make a great presentation or product. Iteration is a tough sell as you are working with a scene that may not look 100% the same at the original image, but the overall iteration is not that complex in this situation. 
+
+
+This course showed me patience and frustration are two very real things and they love to conflict with your mind. I think this course, the approach, and the logic that I had to add to it and understanding really made me narrow down potential career moves with a master's degree and the programs. After this course and the logic applied, I found that management and project management where something I thing I would enjoy as I now know that I have an interest in cutting fat and reducing waste. 
